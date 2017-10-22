@@ -1,0 +1,4 @@
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb

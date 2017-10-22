@@ -1,0 +1,7 @@
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

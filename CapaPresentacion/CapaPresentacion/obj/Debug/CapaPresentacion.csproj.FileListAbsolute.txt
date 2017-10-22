@@ -1,0 +1,12 @@
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\CapaEntidades.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\CapaLogicaNegocio.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\CapaAccesoDatos.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\CapaEntidades.pdb
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\CapaLogicaNegocio.pdb
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\CapaAccesoDatos.pdb
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Islado\Documents\Visual Studio 2013\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
